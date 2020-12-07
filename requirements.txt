@@ -1,6 +1,5 @@
 setuptools==39.1.0
 Pillow>=1.0
-six
 pyopenssl
 Flask
 Flask-Login
