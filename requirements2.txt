@@ -16,7 +16,6 @@ PyMySQL
 imutils
 psycopg2-binary
 scikit-image
-apscheduler
 werkzeug
 chainer
 pandas
