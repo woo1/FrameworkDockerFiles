@@ -4,7 +4,6 @@ pyopenssl
 Flask
 Flask-Login
 Flask-SSLify
-nexmo
 paramiko
 google-cloud-vision
 cryptography
