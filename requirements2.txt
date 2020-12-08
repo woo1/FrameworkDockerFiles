@@ -22,5 +22,4 @@ matplotlib==3.0.3
 requests==2.22.0
 wheel==0.33.1
 astor
-imageio==2.5
 gunicorn==20.0.4
