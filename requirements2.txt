@@ -13,7 +13,6 @@ werkzeug
 pandas
 lxml==4.5.1
 google
-protobuf
 gputil
 tensorflow==1.14.0
 Markdown==3.1
